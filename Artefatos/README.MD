@@ -1,1 +1,1 @@
-#Pasta destinada à armazenar arquivos no geração
+# Pasta destinada à armazenar arquivos no geração

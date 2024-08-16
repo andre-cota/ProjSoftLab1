@@ -6,4 +6,4 @@ Esse repositório armazena todo o projeto 1 da disciplina de Laborátorio de Pro
 
 
 ## Diagrama de caso de uso
-<img href="https://github.com/andre-cota/ProjSoftLab1/blob/d2a88c42ac4fc909ee02988c2a212f37f0ccc55d/Artefatos/Diagrama%20de%20caso%20de%20uso.png">
+<img src="https://github.com/andre-cota/ProjSoftLab1/blob/d2a88c42ac4fc909ee02988c2a212f37f0ccc55d/Artefatos/Diagrama%20de%20caso%20de%20uso.png">

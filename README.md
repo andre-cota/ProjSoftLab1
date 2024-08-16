@@ -1,6 +1,9 @@
 # Projeto Software Laboratório 1
 Esse repositório armazena todo o projeto 1 da disciplina de Laborátorio de Projeto de Software do Quarto Periodo do curso de Engenharia de Software da PUC Minas.
 
+Integrate do Grupo:
+  - André Cota Guimarães
+
 ## Historia de usuário
 
 
